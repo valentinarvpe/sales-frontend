@@ -1,0 +1,15 @@
+/* assets/styles/main.css */
+body {
+    font-family: 'Lexend', 'Roboto', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'Lexend', 'Roboto', sans-serif;
+    font-weight: 700; /* Peso para bold */
+    font-size: 120px
+  }
+
+  bg_footer {
+    background: #070449;
+  }
+

@@ -7,9 +7,8 @@
     <!-- Contenido de tu aplicación -->
     <v-main>
       <toolbar></toolbar>
-      <v-container>
-        <NuxtPage />
-      </v-container>
+      <NuxtPage />
+      <NuxtLayout />
     </v-main>
   </v-app>
 </template>
