@@ -4,7 +4,8 @@
       rounded="0"
       flat
     >
-      <v-toolbar extended 
+      <v-toolbar 
+      class=""
       dark
       prominent>
         <v-app-bar-nav-icon></v-app-bar-nav-icon>
